@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**amanda-cruvinel-vieira/amanda-cruvinel-vieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Eu sou Amanda
 
-Here are some ideas to get you started:
+Estudante de Ciência da Computação no IF Goiano
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interesse em Business Intelligence e Análise de Dados
+
+Conhecimentos:
+- Microsoft Power BI
+- Power Query
+- SQL
+- Python
+- Análise de Dados
+
+Neste perfil compartilho projetos desenvolvidos durante minha formação,
+com foco em análise de dados, dashboards e Business Intelligence.
+
+## Contato
+E-mail: amandacruvinelrv@gmail.com
